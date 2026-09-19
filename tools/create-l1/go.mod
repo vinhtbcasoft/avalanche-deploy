@@ -3,7 +3,7 @@ module github.com/ava-labs/avalanche-deploy/tools/create-l1
 go 1.25.0
 
 require (
-	github.com/ava-labs/avalanchego v1.14.1
+	github.com/ava-labs/avalanchego v1.15.0
 	github.com/ava-labs/platform-cli v1.0.0
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0
 	golang.org/x/crypto v0.51.0
@@ -16,7 +16,6 @@ require (
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/StephenButtolph/canoto v0.17.3 // indirect
 	github.com/VictoriaMetrics/fastcache v1.12.1 // indirect
-	github.com/ava-labs/avalanchego/graft/coreth v0.0.0-20251203215505-70148edc6eca // indirect
 	github.com/ava-labs/ledger-avalanche-go v1.1.0 // indirect
 	github.com/ava-labs/libevm v1.13.15-0.20251210210615-b8e76562a300 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
